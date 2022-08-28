@@ -37,3 +37,8 @@ https://stackoverflow.com/questions/13550541/media-min-width-max-width
 10.Deploy Complete
 
 https://disneyplus-hotstar-clone-eab89.web.app/
+
+--------------------------GIT REFLOG-------------------
+-->git reflog
+-->git checkout <your commit-SHA>
+-->git cherry-pick <your commit-SHA>
