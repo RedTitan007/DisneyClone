@@ -1,0 +1,39 @@
+-->npx create-react-app youtube-disney-clone
+-->npm install styled-components or yarn add styled-components
+-->npm install react-router-dom or yarn add react-router-dom
+
+-->Switch is replaced with Routes in react-router-dom v6
+-->Install vscode-styled-components plugin for enabling intellisense
+ 
+-->
+OBSERVATION:
+#1-Background Image is Dominating Parent Container
+
+-->npm install firebase
+-->npm install firebase-tools
+-->npm install react-redux
+-->npm install @reduxjs/toolkit
+-->npm install react-slick       https://react-slick.neostack.com/docs/get-started/
+-->npm install slick-carousel
+
+
+---> Max-Width and Min-Wdith
+https://stackoverflow.com/questions/13550541/media-min-width-max-width
+
+--->
+1.npm install -g firebase-tools
+2.Open GitBash in VSCode
+3.firebase login
+4.npm run build
+5.firebase init
+6.Yes
+7.Select Hosting option and press spacebar and enter
+8.
+-> What do you want to use as your public directory? build
+-> Configure as a single-page app (rewrite all urls to /index.html)? Yes
+-> Set up automatic builds and deploys with GitHub? No
+-> File build/index.html already exists. Overwrite? No
+9. firebase deploy
+10.Deploy Complete
+
+https://disneyplus-hotstar-clone-eab89.web.app/
